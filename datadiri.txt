@@ -4,3 +4,6 @@ Kelas: Teknik Komputer A
 Angkatan : 2018
 
 Nama Mata Kuliah : Struktur Data
+Universitas Negeri Makassar
+Fakultas Teknik
+Prodi Teknik Komputer
