@@ -3,4 +3,4 @@ NIM  : 1829142017
 Kelas: Teknik Komputer A
 Angkatan : 2018
 
-Nama MK : Struktur Data
+Nama Mata Kuliah : Struktur Data
